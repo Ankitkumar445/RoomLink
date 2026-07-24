@@ -121,17 +121,16 @@ RoomLink/
 
 ---
 
-# 📸 Screenshots
 
-| Home | Room |
-|------|------|
-| <img width="1843" height="885" alt="image" src="https://github.com/user-attachments/assets/c0918137-bb2f-4325-8cfc-bc81e1447c39" />
- | <img width="1781" height="887" alt="image" src="https://github.com/user-attachments/assets/e9d98afd-3d7c-4a67-97f3-eaacafa89dce" />|
+ ## 📸 Screenshots
 
-| File Upload | Image Upload |
-|--------------|----------------|
-| <img width="1722" height="886" alt="image" src="https://github.com/user-attachments/assets/dad052e8-b42d-41bb-9602-e1b2354326e7" />
- | <img width="1792" height="892" alt="image" src="https://github.com/user-attachments/assets/88758342-b3ce-4c05-93b0-8ce65fc1caec" /> |
+| Home Page | Room Workspace |
+|-----------|----------------|
+| <img width="1843" height="885" alt="image" src="https://github.com/user-attachments/assets/c0918137-bb2f-4325-8cfc-bc81e1447c39" /> | <img width="1781" height="887" alt="image" src="https://github.com/user-attachments/assets/e9d98afd-3d7c-4a67-97f3-eaacafa89dce" /> |
+
+| Upload Files | Upload Images |
+|--------------|---------------|
+| <img width="1722" height="886" alt="image" src="https://github.com/user-attachments/assets/dad052e8-b42d-41bb-9602-e1b2354326e7" /> | <img width="1792" height="892" alt="image" src="https://github.com/user-attachments/assets/88758342-b3ce-4c05-93b0-8ce65fc1caec" /> |
 
 
 ---
